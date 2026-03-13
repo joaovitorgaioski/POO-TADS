@@ -11,6 +11,7 @@ public class App {
         jogos.add(new Jogo("Stardew Valley", "RPG", 20));
         jogos.add(new Jogo("Call of Duty®: Black Ops II", "Competitivo", 329.90));
         jogos.add(new Jogo("Cyberpunk 2077", "Mundo Aberto", 199.90));
+        jogos.add(new Jogo("FIFA 23", "Esportes", 299.00));
 
         // Set -> categorias
         Set<String> categorias = new HashSet<>();
