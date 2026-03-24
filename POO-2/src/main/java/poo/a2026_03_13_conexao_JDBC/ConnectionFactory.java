@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 // A camada ConnectionFactory possui o metodo getConnection que permite a conexão com o banco
 public class ConnectionFactory {
-    private static final String URL = "jdbc:mysql://localhost:3306/db_poo2";
+    private static final String URL = "jdbc:mysql://localhost:3306/db_poo";
     private static final String USER = "root";
     private static final String PASS = "mysql";
 

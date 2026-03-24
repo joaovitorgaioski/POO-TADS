@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2025-08-19-get-set-construtor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-08-26-ArrayList-opternario-trycatch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-08-26-tarefa-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-09-02-classe-Pergunta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-09-02-tarefa-3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-09-09-heranca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-09-09-trabalho" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-10-07-frota-de-veiculos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-10-07-trabalho" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-10-21-object" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-11-04-revisao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-11-11-sistema-de-vacinacao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025-12-02-trabalho-cafeteria-com-GUI" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
