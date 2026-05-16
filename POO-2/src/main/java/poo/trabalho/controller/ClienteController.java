@@ -24,4 +24,16 @@ public class ClienteController {
     public List<Cliente> listar() {
         return dao.listar();
     }
+
+    public void deletar(int id) {
+        PessoaDAO pDao = new PessoaDAO();
+        pDao.deletar(id);
+    }
+
+    public void atualizar(Cliente c) {
+        new PessoaDAO().atualizar(c);
+
+        dao.atualizar(c);
+    }
+
 }
